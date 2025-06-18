@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/mlflow_experiment/project_diabetes_1/mlruns/0/64461a460a8046ca91c47740aadacf18/artifacts
+end_time: 1750278387395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64461a460a8046ca91c47740aadacf18
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750278380801
+status: 3
+tags: []
+user_id: ThinkPad-T570Worksta

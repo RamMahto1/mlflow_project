@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/mlflow_experiment/project_diabetes_1/mlruns/0/73dcc0e8ecdf4f10833068c877463c5a/artifacts
+end_time: 1750278532581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73dcc0e8ecdf4f10833068c877463c5a
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750278526887
+status: 3
+tags: []
+user_id: ThinkPad-T570Worksta

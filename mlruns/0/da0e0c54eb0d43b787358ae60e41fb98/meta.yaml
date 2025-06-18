@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/mlflow_experiment/project_diabetes_1/mlruns/0/da0e0c54eb0d43b787358ae60e41fb98/artifacts
+end_time: 1750276962420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da0e0c54eb0d43b787358ae60e41fb98
+run_name: melodic-rook-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750276955152
+status: 3
+tags: []
+user_id: ThinkPad-T570Worksta

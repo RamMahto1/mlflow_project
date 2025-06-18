@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/mlflow_experiment/project_diabetes_1/mlruns/0/f8cb96da032643789655a88f4dedf062/artifacts
+end_time: 1750278537913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8cb96da032643789655a88f4dedf062
+run_name: DecisionTree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750278532596
+status: 3
+tags: []
+user_id: ThinkPad-T570Worksta

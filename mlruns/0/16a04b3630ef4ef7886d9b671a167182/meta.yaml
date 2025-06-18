@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/mlflow_experiment/project_diabetes_1/mlruns/0/16a04b3630ef4ef7886d9b671a167182/artifacts
+end_time: 1750277451111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16a04b3630ef4ef7886d9b671a167182
+run_name: painted-slug-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750277444370
+status: 3
+tags: []
+user_id: ThinkPad-T570Worksta

@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/mlflow_experiment/project_diabetes_1/mlruns/0/10a23b03583a4301a3927743b1df69aa/artifacts
+end_time: 1750276955131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10a23b03583a4301a3927743b1df69aa
+run_name: melodic-owl-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750276946512
+status: 3
+tags: []
+user_id: ThinkPad-T570Worksta

@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/mlflow_experiment/project_diabetes_1/mlruns/0/fc8a39cb78a64696b9b5fa2985c69b04/artifacts
+end_time: 1750277444347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc8a39cb78a64696b9b5fa2985c69b04
+run_name: adventurous-grub-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750277436896
+status: 3
+tags: []
+user_id: ThinkPad-T570Worksta

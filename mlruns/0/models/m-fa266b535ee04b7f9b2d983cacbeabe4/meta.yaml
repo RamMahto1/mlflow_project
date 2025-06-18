@@ -1,0 +1,10 @@
+artifact_location: file:///E:/mlflow_experiment/project_diabetes_1/mlruns/0/models/m-fa266b535ee04b7f9b2d983cacbeabe4/artifacts
+creation_timestamp: 1750278664803
+experiment_id: '0'
+last_updated_timestamp: 1750278671450
+model_id: m-fa266b535ee04b7f9b2d983cacbeabe4
+model_type: null
+name: model
+source_run_id: c5728cf858d44fdda3486436ec244891
+status: 2
+status_message: null

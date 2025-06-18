@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/mlflow_experiment/project_diabetes_1/mlruns/0/d63d01bf07954660bcd606dd7de45a2c/artifacts
+end_time: 1750277463921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d63d01bf07954660bcd606dd7de45a2c
+run_name: hilarious-perch-313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750277457383
+status: 3
+tags: []
+user_id: ThinkPad-T570Worksta

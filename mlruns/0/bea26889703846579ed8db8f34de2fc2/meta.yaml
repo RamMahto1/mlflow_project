@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/mlflow_experiment/project_diabetes_1/mlruns/0/bea26889703846579ed8db8f34de2fc2/artifacts
+end_time: 1750277457361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bea26889703846579ed8db8f34de2fc2
+run_name: grandiose-wasp-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750277451133
+status: 3
+tags: []
+user_id: ThinkPad-T570Worksta
